@@ -18,3 +18,4 @@ As Juquinha hates being without an allowance, he hired you to develop a program 
 <h1>Collaborators:</h1>
 
 - Nicholas Stefanello Luz
+- João Guilherme Bohrer Roedel Sperb
