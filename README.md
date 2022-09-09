@@ -19,3 +19,4 @@ As Juquinha hates being without an allowance, he hired you to develop a program 
 
 - Nicholas Stefanello Luz
 - João Guilherme Bohrer Roedel Sperb
+- Guilherme Guimarães Santos
