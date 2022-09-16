@@ -9,11 +9,11 @@ As Juquinha hates being without an allowance, he hired you to develop a program 
 
 "Palavrao"s are words that contain ten or more characters, all other words are considered "palavrinha"s.
 
-
-
-
-
-
+Atividade 3: 
+  - no GitHub navegue até a página principal do repositório, acima da lista de arquivos, clique em  código e copie a URL do repositório usando HTTPS
+  - em Linux, abra o terminal, altere o diretório que deseja ter o repositório clonado, digit 'git clone' e cole a URL copiada
+  - exemplo: git clone https://github.com/NicholasLuz/Group15_GCS.git
+  - pressione ENTER para criar seu clone local
 
 <h1>Collaborators:</h1>
 
