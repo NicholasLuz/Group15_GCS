@@ -1,22 +1,31 @@
+[![CodeQL](https://github.com/NicholasLuz/Group15_GCS/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/NicholasLuz/Group15_GCS/actions/workflows/codeql.yml)
+[![Java CI with Maven](https://github.com/NicholasLuz/Group15_GCS/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/NicholasLuz/Group15_GCS/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Group15_GCS
-Repository for group project.
+Repository for group project at PUCRS's Software Configuration Management (SCM) class.
 
-<h1>beecrowd problem 3303 - Big Word:</h1>
+<br />
 
-Recently Juquinha learned to say big words. These Brazilian Portuguese words are commonly called "palavrao"s. Amazed at the discovery of the boy, her mother forbade him to say any "palavrao", about the risk of the boy losing his allowance.
+<h1 align="center">beecrowd problem 3303 - Big Word</h1>
 
-As Juquinha hates being without an allowance, he hired you to develop a program to tell him if a word is a "palavrao" or not.
+<div align="center">
+  <img width="673" alt="image" src="https://user-images.githubusercontent.com/101582254/190840961-13f18a44-27fc-41d0-9a44-f6f2d63e5141.png">
+</div>
 
-"Palavrao"s are words that contain ten or more characters, all other words are considered "palavrinha"s.
+<h1> To clone repository and execute project</h1>
 
-Atividade 3: 
-  - no GitHub navegue até a página principal do repositório, acima da lista de arquivos, clique em  código e copie a URL do repositório usando HTTPS
-  - em Linux, abra o terminal, altere o diretório que deseja ter o repositório clonado, digit 'git clone' e cole a URL copiada
-  - exemplo: git clone https://github.com/NicholasLuz/Group15_GCS.git
-  - pressione ENTER para criar seu clone local
+```bash
+git clone https://github.com/NicholasLuz/Group15_GCS.git
+cd Group15_GCS/
+java -jar target/gs-maven-0.1.0.jar
+```
 
-<h1>Collaborators:</h1>
+<h1>Collaborators</h1>
 
 - Nicholas Stefanello Luz
 - João Guilherme Bohrer Roedel Sperb
 - Guilherme Guimarães Santos
+
+<h1>License</h1>
+
+Group15_GCS is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for more info.
