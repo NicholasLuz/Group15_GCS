@@ -17,6 +17,8 @@ Repository for group project at PUCRS's Software Configuration Management (SCM) 
 ```bash
 git clone https://github.com/NicholasLuz/Group15_GCS.git
 cd Group15_GCS/
+mvn compile
+mvn package
 java -jar target/gs-maven-0.1.0.jar
 ```
 
