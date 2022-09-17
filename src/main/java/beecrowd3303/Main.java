@@ -10,7 +10,6 @@ public class Main {
       Scanner in = new Scanner(System.in);
       
       String palavra = "";
-      String output= "";
       
       while (in.hasNextLine()) {
           
