@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="hello.GreeterTest" time="0" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="beecrowd3303.MainTest" time="0.009" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="18.0.2.1+0"/>
@@ -62,5 +62,7 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="hello.GreeterTest" name="greeterSaysHello" time="0"/>
+  <testcase classname="beecrowd3303.MainTest" name="checkParalelepipedo" time="0.008"/>
+  <testcase classname="beecrowd3303.MainTest" name="checkCarro" time="0.001"/>
+  <testcase classname="beecrowd3303.MainTest" name="checkParadadada" time="0"/>
 </testsuite>
